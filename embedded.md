@@ -90,4 +90,4 @@ This task evaluates real-world skills across the embedded IoT stack:
 
 Send your completed work to **[info@qilowatt.eu](mailto:info@qilowatt.eu)**
 
-Include all deliverables as a `.zip` archive or a link to a Git repository.
+Include all deliverables as a link to a your Git repository.
